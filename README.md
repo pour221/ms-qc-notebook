@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/python-3.10+-blue) ![Jupyter](https://img.shields.io/badge/jupyter-notebook-F37626) ![Proteomics](https://img.shields.io/badge/field-proteomics-3498db?style=flat)
 # ms-qc-notebook
 
 Jupyter notebook for quality control of mass spectrometry data.
