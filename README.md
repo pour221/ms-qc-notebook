@@ -75,4 +75,5 @@ Run all cells
 ### Summary table
 ![Summary table](plots/summary.png)
 
+## Test data
 Public raw data used for testing were obtained from the PRIDE repository (project PXD000498).
